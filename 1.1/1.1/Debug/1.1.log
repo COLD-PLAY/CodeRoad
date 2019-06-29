@@ -1,0 +1,4 @@
+﻿  1.1.cpp
+c:\users\liaoz\desktop\github\coderoad\1.1\1.1\1.1.cpp(14): warning C4309: “=”: 截断常量值
+c:\users\liaoz\desktop\github\coderoad\1.1\1.1\1.1.cpp(19): warning C4309: “=”: 截断常量值
+c:\users\liaoz\desktop\github\coderoad\1.1\1.1\1.1.cpp(29): error C2415: 不正确的操作数类型
